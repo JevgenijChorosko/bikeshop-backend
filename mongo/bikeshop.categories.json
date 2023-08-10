@@ -1,0 +1,28 @@
+[{
+  "_id": {
+    "$oid": "64d2a0d0c06c100aed1bf95f"
+  },
+  "key": "all",
+  "name": "ALL-ITEMS"
+},
+{
+  "_id": {
+    "$oid": "64d2a0d0c06c100aed1bf960"
+  },
+  "key": "MTB",
+  "name": "MTB-BIKES"
+},
+{
+  "_id": {
+    "$oid": "64d2a0d0c06c100aed1bf961"
+  },
+  "key": "KIDS",
+  "name": "BIKES-FOR-KIDS"
+},
+{
+  "_id": {
+    "$oid": "64d2a0d0c06c100aed1bf962"
+  },
+  "key": "ROAD",
+  "name": "ROAD-BIKES"
+}]

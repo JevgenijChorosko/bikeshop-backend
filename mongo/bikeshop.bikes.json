@@ -1,0 +1,90 @@
+[{
+  "_id": {
+    "$oid": "64d29ccbc06c100aed1bf954"
+  },
+  "title": "ORBEA",
+  "img": "102.jpg",
+  "desc": "Lorem ipsum dolor sit amet, consectetur adipisicing.",
+  "category": "MTB",
+  "price": "1999"
+},
+{
+  "_id": {
+    "$oid": "64d29ccbc06c100aed1bf955"
+  },
+  "title": "STELS",
+  "img": "103.jpg",
+  "desc": "Lorem ipsum dolor sit amet, consectetur adipisicing.",
+  "category": "KIDS",
+  "price": "100"
+},
+{
+  "_id": {
+    "$oid": "64d29ccbc06c100aed1bf956"
+  },
+  "title": "LIV",
+  "img": "104.jpg",
+  "desc": "Lorem ipsum dolor sit amet, consectetur adipisicing.",
+  "category": "MTB",
+  "price": "899"
+},
+{
+  "_id": {
+    "$oid": "64d29ccbc06c100aed1bf957"
+  },
+  "title": "ORBEA",
+  "img": "GAIN-D40.jpg",
+  "desc": "Lorem ipsum dolor sit amet, consectetur adipisicing.",
+  "category": "ROAD",
+  "price": "1399"
+},
+{
+  "_id": {
+    "$oid": "64d29ccbc06c100aed1bf958"
+  },
+  "title": "CUBE",
+  "img": "106.jpg",
+  "desc": "Lorem ipsum dolor sit amet, consectetur adipisicing.",
+  "category": "KIDS",
+  "price": "699"
+},
+{
+  "_id": {
+    "$oid": "64d29ccbc06c100aed1bf959"
+  },
+  "title": "CUBE",
+  "img": "107.jpg",
+  "desc": "Lorem ipsum dolor sit amet, consectetur adipisicing.",
+  "category": "KIDS",
+  "price": "799"
+},
+{
+  "_id": {
+    "$oid": "64d29ccbc06c100aed1bf95a"
+  },
+  "title": "ORBEA",
+  "img": "108.jpg",
+  "desc": "Lorem ipsum dolor sit amet, consectetur adipisicing.",
+  "category": "KIDS",
+  "price": "1799"
+},
+{
+  "_id": {
+    "$oid": "64d29ccbc06c100aed1bf95b"
+  },
+  "title": "ORBEA",
+  "img": "109.jpg",
+  "desc": "Lorem ipsum dolor sit amet, consectetur adipisicing.",
+  "category": "ROAD",
+  "price": "1999"
+},
+{
+  "_id": {
+    "$oid": "64d29ccbc06c100aed1bf95c"
+  },
+  "title": "BIANCHI",
+  "img": "110.jpg",
+  "desc": "Lorem ipsum dolor sit amet, consectetur adipisicing.",
+  "category": "ROAD",
+  "price": "5999"
+}]

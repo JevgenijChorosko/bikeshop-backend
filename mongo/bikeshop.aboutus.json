@@ -1,0 +1,30 @@
+[
+  {
+    "_id": {
+      "$oid": "64d2a4f1c06c100aed1bf965"
+    },
+    "key": "aboutus",
+    "text": "At our bike shop, we're not just passionate about bikes; we're dedicated to providing an exceptional cycling experience for enthusiasts of all levels. With years of expertise, we've become a hub for bike lovers, offering a wide range of top-notch bicycles, accessories, and services. Our commitment to quality and innovation shines through in every product we offer. Whether you're a casual rider or an adrenaline junkie seeking high-performance gear, our shop is designed to cater to your needs. Our knowledgeable staff is here to guide you through the process, ensuring you find the perfect fit and style that matches your biking goals. Join us in embracing the thrill of the ride and discover the joy of cycling like never before!"
+  },
+  {
+    "_id": {
+      "$oid": "64d2a50fc06c100aed1bf967"
+    },
+    "key": "mission",
+    "text": "At our bike shop, our mission is simple yet powerful: to empower individuals to explore the world on two wheels and make biking an integral part of their lives. We believe that cycling is not just a means of transportation but a way of life that promotes health, sustainability, and adventure. Our values revolve around providing exceptional customer service, curating a diverse collection of bikes and accessories, and fostering a welcoming community of cyclists. We take pride in our commitment to environmental stewardship by offering eco-friendly options and promoting cycling as an eco-conscious mode of transport. With a deep respect for both seasoned cyclists and newcomers, we strive to create an inclusive space where everyone feels inspired to pedal their way to new horizons."
+  },
+  {
+    "_id": {
+      "$oid": "64d2abe0c06c100aed1bf96b"
+    },
+    "key": "contacts",
+    "name": "Bike Shop",
+    "address": "123 Bike Lane",
+    "city": "Kaunas",
+    "country": "Lithuania",
+    "zip": "45678",
+    "phone": "+370 123 4567",
+    "email": "info@bikeshop.com",
+    "website": "https://www.bikeshop.com"
+  }
+]
